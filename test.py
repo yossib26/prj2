@@ -49,7 +49,7 @@ def func_name(age, n="default"):
 func_name(22, "aaaa")
 
 with open("read_con.txt", "a+") as f:
-    f.write("fdsfdsfsdf\n")
+    f.write("fdsfdsfsdf\n")g
     print(f.readline())
     f.close()
 
