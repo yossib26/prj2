@@ -52,3 +52,6 @@ with open("read_con.txt", "a+") as f:
     f.write("fdsfdsfsdf\n")
     print(f.readline())
     f.close()
+
+
+
